@@ -1,4 +1,4 @@
-package org.o7planning.tutorial.swt;
+package org.o7planning.tutorial.swt.helloswt;
 
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
